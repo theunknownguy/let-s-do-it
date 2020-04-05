@@ -1,9 +1,9 @@
 {
-  "name": "Lets code it",
+  "name": "lets-code-it",
   "private": true,
   "description": "A starter for a blog powered by Gatsby and Markdown",
   "version": "0.1.0",
-  "author": "navendu <navendu.dtu@gmail.com>",
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
