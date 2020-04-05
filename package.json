@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "Lets code it blog",
   "private": true,
   "description": "A starter for a blog powered by Gatsby and Markdown",
   "version": "0.1.0",
@@ -39,14 +39,12 @@
     "prettier": "^1.19.1"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
-  "keywords": [
-    "gatsby"
-  ],
+  "keywords": ["gatsby"],
   "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "https://github.com/theunknownguy/let-s-do-it.git"
   },
   "scripts": {
     "build": "gatsby build",
